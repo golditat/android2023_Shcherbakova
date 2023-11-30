@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_main"
+        android:icon="?attr/actionModePasteDrawable"
+        android:title="@string/glavni" />
+    <item
+        android:id="@+id/action_notifications"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="@string/notificatoins" />
+    <item
+        android:id="@+id/action_coroutines"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/coroutines" />
+</menu>

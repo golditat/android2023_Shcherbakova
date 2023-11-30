@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task4Application</string>
+    <string name="settings">Настройки уведомлений</string>
+    <string name="importance">Важность уведомления:</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="urgent">Urgent</string>
+    <string name="privacy">Приватность уведомления:</string>
+    <string name="privat">Приватное уведомление</string>
+    <string name="detailed_text">Подробный текст сообщения:</string>
+    <string name="display_detailed_text">Отображать подробный текст</string>
+    <string name="display_buttons">Отображение кнопок:</string>
+    <string name="display_button">Показать кнопки</string>
+    <string name="glavni">Главный</string>
+    <string name="notificatoins">Уведомления</string>
+    <string name="coroutines">Корутины</string>
+    <string name="zagolovok">Заголовок уведомления</string>
+    <string name="text">Текст уведомления</string>
+    <string name="pokazat">Показать уведомление</string>
+    <string name="async">Async</string>
+    <string name="stop_on_background">Stop on background</string>
+    <string name="go">Выполнить</string>
+</resources>

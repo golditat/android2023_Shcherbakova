@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\fragment_detail_info.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\fragment_detail_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\item_galerey.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\item_galerey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\fragment_rw.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\fragment_rw.xml"
+    },
+    {
+        "merged": "com.example.task3application.app-mergeDebugResources-28:/layout/fragment_rw.xml",
+        "source": "com.example.task3application.app-main-31:/layout/fragment_rw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\fragment_bottom_shit.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\fragment_bottom_shit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\fragment_start.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-mergeDebugResources-28:\\layout\\item_date.xml",
+        "source": "C:\\Users\\Huawei\\.gradle\\daemon\\8.0\\com.example.task3application.app-main-31:\\layout\\item_date.xml"
+    }
+]
