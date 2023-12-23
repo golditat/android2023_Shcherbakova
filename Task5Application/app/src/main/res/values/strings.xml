@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task5Application</string>
+    <string name="delete">delete</string>
+    <string name="like">like</string>
+    <string name="new_film">new film</string>
+    <string name="sign_up">sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="name">Name</string>
+    <string name="sign_in">Sign in</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="deskription">Deskription</string>
+    <string name="country">country</string>
+    <string name="year">year</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="log_out">Log Out</string>
+    <string name="image_src">image src</string>
+</resources>
